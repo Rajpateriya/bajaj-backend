@@ -5,7 +5,7 @@ dotenv.config()
 
 
  const corsOptions = {
-    origin : "https://bajaj-assessment-frontend-kappa.vercel.app",
+    origin : "*",
 }
 
 
